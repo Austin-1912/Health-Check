@@ -1,0 +1,53 @@
+Our Pre Process – 
+1.	Health Check Process 	
+a.	Around 1000 devices across the globe.
+b.	Manual Process wherein operators spend 2-3 hours checking the status of the devices every single day.
+c.	Possible Human Error.
+d.	Not Proper documentation of downtime or uptime of devices or the number of downtimes within a particular timeframe.
+e.	Delayed Response to Failures – no real – time alerts , issues might go unnoticed for hours.
+f.	Multiple System Dependencies – Devices (Cameras, Controllers, Servers , etc) have separate management systems.
+g.	Resource Intensive – Consumes a lot of manpower.
+
+2.	Alarm Tracker:
+a.	Alarms are generated in the system and operators need to pull the data and enter it manually into the alarm tracker sheet.
+b.	Have to manually put in the action taken for those alarms.
+c.	Prioritize it with accordance to Priority (High, Medium , Low)
+d.	Make the breakdown Manually ( Region, Location, door or employee )
+e.	Time consuming process since 2 operators are on that process throughout .
+f.	Around 30000 alarms are received in a month.
+g.	Trend analysis is also done manually and it takes a lot of time.
+
+3.	Live Occupancy:
+a.	Manually generate the report from the system then clean and analyze the data in order to check the count of individuals in office and incase floor wise. 
+b.	Not real time – since people keep moving around after the report is generated from the system and analyzed it is not real – time.
+c.	Not accurate – since it is done manually , human error is also present.
+
+Our Present Process: 
+1.	Health Check Process: 
+a.	Automation done.
+b.	Created a Centralized Dashboard which covers all the devices mentioned globally on a single dashboard.
+c.	Gives the real time status of all the devices.
+d.	Helps us to make calculated and system enabled decisions.
+e.	Reduces the time taken by the operators to check the devices manually.
+f.	Check the trend for the devices – No of time the devices have gone offline and the duration of time it was offline and on basis of that taken decision if the device needs repair or it has to be replaced.
+g.	Toggle down Globally, region wise, location and floor wise and by the device type.
+h.	We can also see the online devices or offline devices.
+
+2.	Alarm Analysis Dashboard.
+a.	Manual Enter the actions taken for the alarms.
+b.	Trend analysis is done by the dashboard and the breakdown by region, location, door & employees can be done within seconds.
+c.	Take action based on the trend then & there.
+d.	Eg. An employee enters his wrong pin twice or thrice every single day, we could connect with the employee and help him change the pin if required.
+e.	If an employee occasionally swipes his/ her card on unauthorized doors, we can escalate the situation with their manager.
+f.	Dashboard also shows from which locations we are receiving the most alarms from.
+3.	Live Occupancy:
+a.	Manually generate the report from the system then clean and analyze the data in order to check the count of individuals in office and incase floor wise. 
+b.	Not real time – since people keep moving around after the report is generated from the system and analyzed it is not real – time.
+c.	Not accurate – since it is done manually, human error is also present.
+Future Vision:
+1.	Health Check Process: 
+a.	Future Vision is to enhance the user experience and interface.
+b.	Give the dashboard to the regional SOCs for their region so that the time taken to identify & resolve the issue is reduced more.
+
+
+
