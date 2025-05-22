@@ -2,23 +2,21 @@
 
 a.	Health Check Process
 
-•	2013 devices globally (Cameras – 709 , Controllers - 70, Servers – 5, Achievers – 21, Doors – 565, Readers - 643).
+•	2013 devices globally (Cameras – 709, Controllers - 70, Servers – 5, Achievers – 21, Doors – 565, Readers - 643).
 •	Entirely manual health checks by operators daily.
 •	2-3 hours of manpower consumed each day.
 •	High risk of human error in device status reporting.
 •	No standardized documentation for downtime, uptime, or device failure frequency.
 •	Delayed issue identification — no real-time alerts.
 •	Multiple separate systems for each device type.
-•	Resource heavy process, diverting operators from active threat monitoring.
-
 
 b.	Alarm Tracker
 
 •	Approx. 30,000 alarms generated monthly.
-•	Manual data extraction and entry into an alarm tracker sheet.
-•	Operators manually log actions taken and prioritize by severity (High, Medium, Low).
+•	Manual data extraction from system and entry into an alarm tracker sheet.
+•	Operators manually log actions taken and prioritized by severity (High, Medium, Low).
 •	Manual breakdown by region, location, door, and employee.
-•	2 operators dedicated full-time for alarm tracking and analysis.
+•	2 operators dedicated for full-time alarm tracking and analysis.
 •	Trend analysis done manually, highly time-consuming, prone to errors.
 
 
@@ -35,13 +33,19 @@ High dependency on manpower, reactive operations, delayed response times — a c
 
 a.	Health Check Process
 
-•	Centralized Real-Time Dashboard implemented, covering 1000+ devices globally.
+•	Centralized Real-Time Dashboard implemented, covering 2000+ devices globally.
 •	Live device status monitoring with instant visibility of online/offline status.
 •	Trend analysis enabled — track device failure frequency and downtime durations.
 •	Granular filtering by region, location, floor, and device type.
 •	Decision-making elevated — system-driven data insights enable proactive maintenance (repair/replace decisions).
 •	Reduced health check time by over 80%.
 •	Elevated operational resilience and control.
+ 
+
+ 
+ 
+
+ 
 
 
 b.	Alarm Analysis Dashboard
@@ -53,12 +57,22 @@ b.	Alarm Analysis Dashboard
 •	Proactive interventions and escalations (e.g. employee pin resets, policy violations flagged to managers).
 •	Significant time savings — eliminated manual trend reporting.
 •	Enhanced situational awareness and incident management.
+ 
+ 
+-	Region Wise Breakdown of alarms
+
+ 
+-Priority Wise Breakdown of alarms
+ 
+
+ 
 
 c.	Live Occupancy
 
 •	Still partially manual.
 •	Report generation, cleaning, and analysis handled manually.
 •	Not yet real-time, accuracy challenges persist.
+
 
 
 Theme Alignment:
@@ -80,13 +94,14 @@ b.	Alarm Analysis Dashboard
 •	Introduce automated escalations and notifications for high-priority incidents.
 •	AI-driven anomaly detection to identify outliers in alarm patterns for early intervention.
 
+
 c.	Live Occupancy
 
 •	Build a real-time occupancy dashboard integrated directly with access control systems.
 •	Live movement tracking with current and floor-wise occupancy.
 •	Automated alerts for occupancy thresholds.
 •	Improved accuracy and operational readiness for emergencies and resource planning.
-
+ 
 
 Theme Alignment:
 Future initiatives are purpose-built to elevate security operations further by enhancing visibility, decentralizing decision-making, reducing response times, and transforming reactive processes into predictive, proactive management.
